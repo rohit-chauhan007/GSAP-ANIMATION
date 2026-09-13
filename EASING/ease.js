@@ -18,4 +18,5 @@ tl.to(".box",{
     x:909,
     ease:"circ",
     borderRadius:100,
-})
+});
+//custom ease - 
