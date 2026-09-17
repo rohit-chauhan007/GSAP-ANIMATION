@@ -36,7 +36,7 @@ gsap.to(".box",{
     scale:0.1,
     duration:0.5,
     stagger:{
-        grid:"[2,3]",
+        grid:"[1,3]",
         from:"center"
     }
    })
