@@ -1,0 +1,6 @@
+.box1,.box2,.box3,.box4{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    margin: 20px;
+}
