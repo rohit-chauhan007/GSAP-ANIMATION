@@ -1,5 +1,6 @@
 const tl = gsap.timeline();
 
+tl.addLabel("start")
 tl.to(".box1",{
     x:800,
     backgroundColor:"green"
